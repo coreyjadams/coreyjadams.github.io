@@ -6,6 +6,7 @@ layout: page
 title: Neutrinos
 order: 3
 icon: fa-flask
+permalink: /neutrinos/
 sections:
     intro: This is the introduction
 ---

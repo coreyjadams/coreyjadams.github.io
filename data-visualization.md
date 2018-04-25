@@ -4,6 +4,7 @@
 
 layout: page
 title: Data Visualization
+permalink: data-visualization
 order: 3
 icon: fa-eye
 ---
