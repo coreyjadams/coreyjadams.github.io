@@ -1,13 +1,10 @@
 ---
 title: Contact
 icon: fa-envelope
-order: 4
+order: 3
 ---
 
-<p>Elementum sem parturient nulla quam placerat viverra
-mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
-donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
-orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+<p>You're welcome to contact me about physics, neutrinos, deep learning, or other things on this site you've found interesting.  I'm happy to hear from you.</p>
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
