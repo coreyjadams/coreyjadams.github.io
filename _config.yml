@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_url:  "https://github.com/coreyjadams"
 linkedin_url: https://www.linkedin.com/in/corey-adams-6b28aa152/
+google_analytics: UA-118470238-1
 
 collections:
   - sections
@@ -32,8 +33,8 @@ avatar: assets/images/avatar.jpg
 
 # Build settings
 markdown: kramdown
-remote_theme: chrisbobbe/jekyll-theme-prologue
-# theme: jekyll-theme-prologue
+# remote_theme: chrisbobbe/jekyll-theme-prologue
+theme: jekyll-theme-prologue
 # plugins:
   # - jekyll-feed
 
