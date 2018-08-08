@@ -1,6 +1,6 @@
 ---
 title: Deep Learning
-icon: fa-question-circle
+icon: fa-android
 order: 1
 ---
 

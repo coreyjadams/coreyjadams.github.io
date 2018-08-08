@@ -4,7 +4,7 @@
 
 layout: neutrinos
 title: Neutrinos
-order: 3
+order: 5
 icon: fa-flask
 permalink: /neutrinos/
 sections:
